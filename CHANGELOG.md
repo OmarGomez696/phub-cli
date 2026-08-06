@@ -48,3 +48,4 @@
 - docs: fix a small wording issue
 - docs: clarify the setup steps
 - chore: add a note about the defaults
+- docs: fix a small wording issue
